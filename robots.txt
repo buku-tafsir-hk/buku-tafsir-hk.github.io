@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://buku-tafsir-hk.github.io/sitemap.xml
